@@ -25,14 +25,14 @@
 ### 🚀 Featured Projects
 
 **1. 📝 [Web E-Ujian Universitas Bengkulu](https://github.com/ikhwnmkt/e-ujian-unib)**
-- 🖥️ A web-based examination system for online exams at Universitas Bengkulu.
-- 🎯 Focus: User interface implementation and responsive web design.
-- 🛠️ Tech: Laravel, PHP, Blade, CSS.
+- A web-based examination system for online exams at Universitas Bengkulu.
+- Focus: User interface implementation and responsive web design.
+- Tech: Laravel, PHP, Blade, CSS.
 
 **2. 🦷 [Klinik Gigi](https://github.com/ikhwnmkt/klinik_gigi)**
-- 🏥 A web-based dental clinic information system.
-- 🎯 Focus: Clinic workflows and a user-friendly interface.
-- 🛠️ Tech: Laravel, PHP, Blade, CSS.
+- A web-based dental clinic information system.
+- Focus: Clinic workflows and a user-friendly interface.
+- Tech: Laravel, PHP, Blade, CSS.
 
 ---
 
