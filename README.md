@@ -24,17 +24,15 @@
 
 ### 🚀 Featured Projects
 
-**1. Mapify UMKM**
-- A web-based GIS platform for mapping and promoting local MSMEs in Gunungpati.
-- Focus: Interactive maps, business discovery, and digital promotion.
-- Tech: HTML, CSS, Bootstrap, Figma.
 
-**2. Coffee Shop Online Service**
-- A web-based coffee shop management system.
-- Focus: Web application development and database management.
-- Tech: Python, Django, HTML, CSS.
 
-**3. Klinik Gigi**
+ **1. Web E-Ujian Universitas Bengkulu**
+- A web-based examination system developed to support online exam management at Universitas Bengkulu.
+- Focus: Front-end development, user interface implementation, and responsive web design.
+- Tech: Laravel, PHP, Blade, CSS.
+
+  
+ **2. Klinik Gigi**
 - A web-based dental clinic information system.
 - Focus: Front-end implementation and user interface development.
 - Tech: Laravel, PHP, Blade, CSS.
