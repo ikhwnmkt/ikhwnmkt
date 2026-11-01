@@ -1,13 +1,13 @@
 # Hi 👋, I'm Ikhwan Mukti Adidaya
 
-### Front-End Developer | Informatics and Computer Science Education Student
+### Front-End Developer | Informatics and Computer Engineering Education Student
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🎓 3rd-year student at **Universitas Negeri Semarang (UNNES)**
-- 💻 Interested in **Front-End Development** and Web Technologies
+- 💻 Interested in **Front-End Development** 
 - 🎨 Passionate about combining **UI Design and Web Development**
 - 🚀 Currently improving my skills in building responsive and user-friendly websites
 - 🌱 Always eager to learn new technologies and explore creative ideas
@@ -21,7 +21,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -66,8 +65,8 @@
 Feel free to connect with me and explore my projects!
 
 - GitHub: [@ikhwnmkt](https://github.com/ikhwnmkt)
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your email address]
+- LinkedIn: [http://www.linkedin.com/in/ikhwanmuktiadidaya]
+- Email: [ikhwanmuktiadidaya@gmail.com]
 
 ---
 
